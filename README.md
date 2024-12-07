@@ -17,4 +17,4 @@ A web application dedicated to displaying OpenWeatherMap weather forecasts.
 - Display a custom gradient background according to the temperature
 - URL on the city name to Google Map
 - Responsive application
-For more details refer https://github.com/ansh
+For more details refer https://github.com/AnshSrivastava003
